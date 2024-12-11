@@ -24,7 +24,7 @@ sudo apt install libsdl2-image-dev
 ```bash
 git clone https://github.com/frederic-hallein/double-pendulum
 ```
-5. To compile the project, go inside the `/double_pendulum` directory and run the following command: 
+5. To compile the project, go inside the `double_pendulum/` directory and run the following command: 
 ```bash
 make all
 ``` 
