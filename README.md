@@ -37,6 +37,6 @@ This should create a `main` executable file in the same directory.
 
 7. Set up the initial conditions of the double pendulum or type `d` to run the default values. 
 
-# Screencast
+## Screencast
 
 [Screencast from 2024-08-06 14-48-29.webm](https://github.com/user-attachments/assets/11727669-aa58-4828-b112-ed4d8f248b12)
