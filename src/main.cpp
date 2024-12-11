@@ -10,8 +10,8 @@
 
 int main(int argc, char* argv[]){
     // screen size
-    const int screen_width = 700;
-    const int screen_height = 700;
+    const int screen_width = 1500;
+    const int screen_height = 1500;
 
     int x_center = screen_width / 2;
     int y_center = screen_height / 2;
