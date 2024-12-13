@@ -42,8 +42,8 @@ To set up custom initial conditions, simply press `ENTER`. This prompts the user
 - `m_2`: mass 2nd pendulum (unitless)
 - `L_1`: length 1st pendulum (unitless)
 - `L_2`: length 2nd pendulum (unitless)
-- `ini_theta_1`: initial angle 1st pendulum (in degrees) 
-- `ini_theta_2`: initial angle 2nd pendulum (in degrees)
+- `ini_theta_1`: initial angle 1st pendulum (in degrees w.r.t. the vertical) 
+- `ini_theta_2`: initial angle 2nd pendulum (in degrees w.r.t. the vertical)
 - `With friction? (y/n)`: air friction (boolean)
 
 
