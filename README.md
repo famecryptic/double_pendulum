@@ -38,13 +38,13 @@ $~~~~~~~~$ This should create a `main` executable file in the same directory.
 ## Setup
 
 To set up custom initial conditions, simply press `ENTER`. This prompts the user the following variables that require custom input: 
-- `m_1`: mass 1st pendulum (unitless)
-- `m_2`: mass 2nd pendulum (unitless)
-- `L_1`: length 1st pendulum (unitless)
-- `L_2`: length 2nd pendulum (unitless)
-- `ini_theta_1`: initial angle 1st pendulum (in degrees w.r.t. the vertical) 
-- `ini_theta_2`: initial angle 2nd pendulum (in degrees w.r.t. the vertical)
-- `With friction? (y/n)`: air friction (boolean)
+- `m_1`: mass 1st pendulum [unitless]
+- `m_2`: mass 2nd pendulum [unitless]
+- `L_1`: length 1st pendulum [unitless]
+- `L_2`: length 2nd pendulum [unitless]
+- `ini_theta_1`: initial angle 1st pendulum [degrees] 
+- `ini_theta_2`: initial angle 2nd pendulum [degrees]
+- `With friction? (y/n)`: air friction 
 
 
 To run the default initial conditions, simply run the command `d`. The default setup is the following:
