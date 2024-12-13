@@ -20,17 +20,17 @@ g++ --version
 sudo apt install libsdl2-image-dev
 ```
 
-4. Clone the remote repository to your local machine using the following command:
+3. Clone the remote repository to your local machine using the following command:
 ```bash
 git clone https://github.com/frederic-hallein/double-pendulum
 ```
-5. To compile the project, go inside the `double_pendulum/` directory and run the following command: 
+4. To compile the project, go inside the `double_pendulum/` directory and run the following command: 
 ```bash
 make all
 ``` 
 $~~~~~~~~$ This should create a `main` executable file in the same directory. 
 
-6. Run the executable by using the following command: 
+5. Run the executable by using the following command: 
 ```bash
 ./main
 ```
